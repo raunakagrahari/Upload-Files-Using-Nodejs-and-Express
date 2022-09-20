@@ -1,0 +1,19 @@
+{
+  "name": "task-4",
+  "version": "1.0.0",
+  "description": "Learning File upload and Download",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Raunak Agrahari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "express-upload": "^0.1.0",
+    "g": "^2.0.1",
+    "gm": "^1.24.0"
+  }
+}
